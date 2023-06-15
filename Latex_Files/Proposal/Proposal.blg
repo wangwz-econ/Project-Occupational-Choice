@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Proposal.aux
+The style file: bibliography.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ../Reference/reference.bib
+Repeated entry---line 841 of file ../Reference/reference.bib
+ : @article{hawkins2012
+ :                     ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--there is no volume, number, and pages in cubas2023
+Warning--there is no volume, number, and pages in hawkins2012
+You've used 24 entries,
+            6380 wiz_defined-function locations,
+            1380 strings with 13403 characters,
+and the built_in function-call counts, 25866 in all, are:
+= -- 4131
+> -- 876
+< -- 70
++ -- 304
+- -- 274
+* -- 1571
+:= -- 3326
+add.period$ -- 24
+call.type$ -- 24
+change.case$ -- 186
+chr.to.int$ -- 24
+cite$ -- 26
+duplicate$ -- 814
+empty$ -- 1284
+format.name$ -- 276
+if$ -- 6415
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 75
+num.names$ -- 190
+pop$ -- 354
+preamble$ -- 1
+purify$ -- 186
+quote$ -- 0
+skip$ -- 1713
+stack$ -- 0
+substring$ -- 2366
+swap$ -- 192
+text.length$ -- 166
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 428
+warning$ -- 2
+while$ -- 208
+width$ -- 0
+write$ -- 360
+(There was 1 error message)

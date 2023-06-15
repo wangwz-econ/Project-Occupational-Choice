@@ -1,0 +1,111 @@
+\documentclass[12pt]{article}
+
+% DEFAULT PACKAGE SETUP
+% DEFAULT PACKAGE SETUP
+\usepackage{setspace,graphicx,epstopdf,amsmath,amsfonts,amssymb,amsthm,geometry,fancyvrb}
+\usepackage{marginnote,datetime,enumitem,rotating}
+\usepackage{threeparttable,booktabs,float,soul}
+\usdate
+\geometry{scale=0.8}
+\usepackage{titlesec}
+\titleformat{\paragraph}[runin]{\itshape}{}{}{}[.]
+\titlelabel{\thetitle.\;}
+\usepackage{indentfirst}
+\setlength{\parindent}{15pt}
+\setlength{\parskip}{5pt}
+\usepackage{fourier}  
+
+%% Use natbib.sty.
+\usepackage{natbib,fancybox,url,graphicx,color}
+\definecolor{MyBlue}{rgb}{0,0.2,0.6}
+\definecolor{MyRed}{rgb}{0.4,0,0.1}
+\definecolor{MyGreen}{rgb}{0,0.4,0}
+\usepackage[bookmarks=true,bookmarksnumbered=true,colorlinks=true,linkcolor=MyBlue,citecolor=MyRed,filecolor=MyBlue,urlcolor=MyGreen]{hyperref}
+\bibliographystyle{bibliography}
+
+%% Theorem Environment
+\theoremstyle{definition}
+\newtheorem{assumption}{Assumption}
+\newtheorem{definition}{Definition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{remark}[theorem]{Remark}
+\usepackage{math}
+
+
+\begin{document}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%      Title, Author and Abstract
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{\bf {Occupation Choices in Incomplete Markets: The Role of Idiosyncratic Production Risk and Financial Imperfections}} 
+\author{Wenzhi Wang} 
+\date{\today}
+\maketitle
+
+\begin{spacing}{1}
+
+{\noindent \bf Goal}
+
+This paper investigates how uninsurable labor earnings risk affects individuals' education and occupational choices. Unlike other incomplete market models, in this paper, the idiosyncratic earnings risk comes from the occupation-specific production risk, which transmits differentially across occupations through financial imperfections. In our context, this means that only state-owned enterprises (SOE) can access to the credit market, while privately-owned enterprises (POE) are subject to natural borrowing limit and can only use self-financing channel to counter production risks.
+
+{\noindent \bf Problems Remain to Be Solved}
+
+How to model the human capital accumulation process (general form or occupation-specific)? This then relates to the modelling individuals' choices to switch occupations.
+
+How to use the idiosyncratic production risk and credit market imperfections to pin down occupation specific labor earnings risk? Since it is a macro model, it seems necessary to introduce some equilibrium concepts and also producers that do not need to do occupational choices.
+
+{\noindent \bf Related Literature}
+
+Papers that investigate how uninsurable risks affect people's education choice, occupation choices and on-the-job human capital accumulation through the lens of dynamic partial or general equilibrium models: 
+\citet{kambourov2008, dillon2018, hawkins2012, silos2015, cubas2020, dvorkin2019, mestieri2017, sullivan2010, todd2020, cubas2023, singh2010, krebs2003, park2018, huggett2011, stantcheva2017, he2008, restuccia2013a}
+
+Papers that to study wage differential and inequality, especially those with heterogeneous agent macroeconomic models: \citet{neumuller2015, cubas2017, heckman1998}
+
+Papers that study the effects of financial imperfections: \citet{buera2011, hawkins2012, angeletos2006, krusell2000, midrigan2014}
+
+
+
+\thispagestyle{empty}
+\newpage
+\setcounter{page}{1}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%     Section 1: HH Side
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Individuals' Optimization Problem} \label{sec:hh}
+Let's take all the factor prices as given when we talk about individuals' problems. In the first period, each agent needs to first choose whether to attend college, according to which agents are classified as high-skilled or low-skilled groups. Then in each working period, the worker draws a transitory labor income shock and then chooses which sector he wants to work in and how much time he allocates to accumulate on-the-job human capital. During his working period, the production of human capital follows a skill-specific process. 
+
+At date $t$, individuals of cohort $c$ become age $a=18$. At this age, individuals differ from each other only in an endowment vector $\bds{x}_t = \left(h_{0t}, k_{0t}, \theta\right)$, where $h_{0t}$, $k_{0t}$ denote his initial human and physical capital stock, respectively, and $\theta$ is his learning ability drawn from a distribution $G(\theta)$. He needs to make a choice on whether to go to college based on different discounted lifetime utility. Attending college makes an individual a high-skilled worker (labeled as $H$) while engaging in the labor market directly means that he is a low-skilled worker (labeled as $L$). 
+
+For those workers in the labor market (from age 18 for $L$-type workers and age 22 for $H$-type workers to the retirement age $A^{r}$), in each period, he needs to choose between two different occupations or sectors, $o \in \{S, P\}$ - whether to work in state-owned enterprises (labeled as $S$) or privately owned companies (labeled as $P$). {\bf Sectors differ from each other in the aspect of idiosyncratic labor earnings risks (which are originated from sector's idiosyncratic production risks and potentially amplified by financial imperfection in the credit market) and mean earnings (which are pinned down by the general equilibrium).}  
+
+Each individual aged $a$ in period $t$ faces the following problem:
+
+\begin{equation} 
+	V_{at} \left(h_{at}, k_{at}, \theta \right) = \max \left\{ W_{at}^S\left(h_{at}, k_{at}, \theta \right), W_{at}^P\left(h_{at}, k_{at}, \theta \right) \right\},
+\end{equation}
+where the choice-specific value function $W_{at}^S$, and $W_{at}^P$ are defined by
+\begin{subequations}
+	\begin{equation} 
+		W_{at}^o\left(h_{at}, k_{at}, \theta \right) = \max_{c_{at}} \left\{u(c_{at}) + \beta EV_{a+1,t+1} \left(h_{a+1,t+1}, k_{a+1,t+1}, \theta \right) \right\} 
+	\end{equation}
+	%\begin{equation}
+		%e_j=R_{t+j-1} h_j l_j \text{ if } j<J_R \text{ , and }%e_j=0\text{ , otherwise }
+	%\end{equation}
+	%\begin{equation} 
+		%h_{j+1}=\exp \left(z_{j+1}\right) H\left(h_j, s_j, %a\right) \text{ and } l_j+s_j=1, \forall j
+	%\end{equation}
+\end{subequations}
+
+
+
+
+\newpage
+\bibliography{../Reference/reference.bib}
+
+\end{spacing}
+\end{document}
