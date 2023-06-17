@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.31)  15 JUN 2023 20:59
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.31)  17 JUN 2023 12:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -559,7 +559,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \c@definition=\count317
 \c@theorem=\count318
 \c@proposition=\count319
- (e:/__Projects/Occupational Choice in Incomplete Markets/Latex_Files/Proposal/math.sty (d:/APP/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (d:/APP/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+ (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/math.sty (d:/APP/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (d:/APP/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2021-02-18 L3 programming layer (loader) 
  (d:/APP/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
@@ -572,51 +572,51 @@ File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count324
 \g__pdf_backend_annotation_int=\count325
 \g__pdf_backend_link_int=\count326
-)) (d:/APP/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (d:/APP/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))) (e:/__Projects/Occupational Choice in Incomplete Markets/Latex_Files/Proposal/Proposal.aux)
+)) (d:/APP/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (d:/APP/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))) (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.aux)
 \openout1 = `Proposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 40.
  (d:/APP/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 38.
-LaTeX Font Info:    Trying to load font information for FML+futm on input line 38.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 40.
+LaTeX Font Info:    Trying to load font information for FML+futm on input line 40.
  (d:/APP/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 38.
-LaTeX Font Info:    Trying to load font information for FMS+futm on input line 38.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for FMS+futm on input line 40.
  (d:/APP/texlive/2020/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 38.
-LaTeX Font Info:    Trying to load font information for FMX+futm on input line 38.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for FMX+futm on input line 40.
  (d:/APP/texlive/2020/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -657,9 +657,9 @@ Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
 File: fc-english.def 2016/01/12
 )
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 38.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 38.
-Package hyperref Info: Link coloring ON on input line 38.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 40.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 40.
+Package hyperref Info: Link coloring ON on input line 40.
  (d:/APP/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (d:/APP/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -669,75 +669,97 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count327
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
- (e:/__Projects/Occupational Choice in Incomplete Markets/Latex_Files/Proposal/Proposal.out) (e:/__Projects/Occupational Choice in Incomplete Markets/Latex_Files/Proposal/Proposal.out)
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
+ (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.out) (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.out)
 \@outlinefile=\write5
 \openout5 = `Proposal.out'.
 
-LaTeX Font Info:    Trying to load font information for FML+futmi on input line 46.
+LaTeX Font Info:    Trying to load font information for FML+futmi on input line 48.
  (d:/APP/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 46.
+(Font)              scaled to size 13.24796pt on input line 48.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 46.
+(Font)              scaled to size 9.19998pt on input line 48.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 46.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+(Font)              scaled to size 7.35999pt on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
  (d:/APP/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
  (d:/APP/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 46.
+(Font)              scaled to size 13.24796pt on input line 48.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 46.
+(Font)              scaled to size 9.19998pt on input line 48.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 46.
-
-Overfull \hbox (5.02554pt too wide) in paragraph at lines 61--63
-[]\T1/futs/m/n/12 Papers that in-ves-ti-gate how unin-sur-able risks af-fect peo-ple's ed-u-ca-tion choice, oc-cu-pa-tion choices
- []
-
-
-Overfull \hbox (6.87343pt too wide) in paragraph at lines 61--63
-[][]\T1/futs/m/n/12 Si-los and Smith[][] ([][]2015[][]); [][]Cubas and Si-los[][] ([][]2020[][]); [][]Dvorkin and Monge-Naranjo[][] ([][]2019[][]); [][]Mestieri, Schauer,
- []
-
-[1
+(Font)              scaled to size 7.35999pt on input line 48.
+ [1
 
 ]
+LaTeX Font Info:    Trying to load font information for TS1+futs on input line 76.
+ (d:/APP/texlive/2020/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
+)
+Overfull \hbox (7.25754pt too wide) in paragraph at lines 76--77
+[]\T1/futs/m/n/12 Take the gen-eral equi-lib-rium frame-work in [][]Heck-man and Lochner[][] ([][]1998[][]) but add sec-tor choices
+ []
+
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 82.
+(Font)              scaled to size 11.03998pt on input line 78.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 82.
+(Font)              scaled to size 8.27998pt on input line 78.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 82.
+(Font)              scaled to size 6.43999pt on input line 78.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 82.
+(Font)              scaled to size 11.03998pt on input line 78.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 82.
+(Font)              scaled to size 8.27998pt on input line 78.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 82.
- [1]
-Package marginnote Info: Using workaround for absolute page number on input line 107.
- (e:/__Projects/Occupational Choice in Incomplete Markets/Latex_Files/Proposal/Proposal.bbl [2]) [3] (e:/__Projects/Occupational Choice in Incomplete Markets/Latex_Files/Proposal/Proposal.aux)
-Package rerunfilecheck Info: File `Proposal.out' has not changed.
-(rerunfilecheck)             Checksum: B1759F351C56A7D211AD09135CA58E9C;227.
+(Font)              scaled to size 6.43999pt on input line 78.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 78.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 78.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 78.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 78.
+
+Overfull \hbox (1.2575pt too wide) in paragraph at lines 78--79
+[]\T1/futs/m/n/12 Use the idea of the hu-man cap-i-tal trans-fer-abil-ity ma-trix in [][]Dvorkin and Monge-Naranjo[][] ([][]2019[][]),
+ []
+
+
+Package natbib Warning: Citation `aiyagari1994' on page 2 undefined on input line 88.
+
+[2] [3] [4] (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.bbl [5])
+
+Package natbib Warning: There were undefined citations.
+
+[6] (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.aux)
+
+Package rerunfilecheck Warning: File `Proposal.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Proposal.out':
+(rerunfilecheck)             Before: B086735832E59DF0D779C8C4622122D3;829
+(rerunfilecheck)             After:  FE416E684C7018DD96162853A4BC08FB;964.
  ) 
 Here is how much of TeX's memory you used:
- 13325 strings out of 476930
- 192833 string characters out of 5824092
- 547822 words of memory out of 5000000
- 33066 multiletter control sequences out of 15000+600000
- 488788 words of font info for 92 fonts, out of 8000000 for 9000
+ 13380 strings out of 476930
+ 193395 string characters out of 5824092
+ 552699 words of memory out of 5000000
+ 33117 multiletter control sequences out of 15000+600000
+ 508457 words of font info for 110 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 83i,6n,89p,1033b,558s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,9n,89p,1033b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on e:/__Projects/Occupational Choice in Incomplete Markets/Latex_Files/Proposal/Proposal.pdf (4 pages).
+Output written on e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.pdf (6 pages).

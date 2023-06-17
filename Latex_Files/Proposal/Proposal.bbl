@@ -1,124 +1,173 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  This bbl file is created by econ.bst ver.3.1.1
+%  The latest econ.bst is available at
+%  <https://github.com/ShiroTakeda/econ-bst>
+
+%%% Definition of \bysame
+\ifx\undefined\bysame
+\newcommand{\bysame}{\hskip.3em \leavevmode\rule[.5ex]{3em}{.3pt}\hskip0.5em}
+\fi
+
 \begin{thebibliography}{xxx}
 
-\harvarditem[Angeletos and Calvet]{Angeletos and Calvet}{2006}{angeletos2006}
-Angeletos, George-Marios, and Laurent-Emmanuel Calvet. 2006. ``Idiosyncratic
-  {Production} {Risk}, {Growth} and the {Business} {Cycle}.'' \textit{Journal
-  of Monetary Economics} 53 (6):  1095--1115.
+\harvarditem[Altonji et~al.]{Altonji, Smith and Vidangos}{2013}{altonji2013}
+Altonji, Joseph~G., Anthony~A. Smith, and Ivan Vidangos (2013) ``Modeling
+  {Earnings} {Dynamics},'' \textit{Econometrica}, 81 (4),  1395--1454,
+  \href{http://dx.doi.org/10.3982/ECTA8415}{\urlstyle{rm}
+  \nolinkurl{10.3982/ECTA8415}}.
 
-\harvarditem[Buera, Kaboski, and Shin]{Buera, Kaboski, and
-  Shin}{2011}{buera2011}
-Buera, Francisco~J, Joseph~P Kaboski, and Yongseok Shin. 2011. ``Finance and
-  {Development}: {A} {Tale} of {Two} {Sectors}.'' \textit{American Economic
-  Review} 101 (5):  1964--2002.
+\harvarditem[Angeletos and Calvet]{Angeletos and Calvet}{2006}{angeletos2006}
+Angeletos, George-Marios and Laurent-Emmanuel Calvet (2006) ``Idiosyncratic
+  {Production} {Risk}, {Growth} and the {Business} {Cycle},'' \textit{Journal
+  of Monetary Economics}, 53 (6),  1095--1115,
+  \href{http://dx.doi.org/10.1016/j.jmoneco.2005.05.016}{\urlstyle{rm}
+  \nolinkurl{10.1016/j.jmoneco.2005.05.016}}.
+
+\harvarditem[Buera et~al.]{Buera, Kaboski and Shin}{2011}{buera2011}
+Buera, Francisco~J, Joseph~P Kaboski, and Yongseok Shin (2011) ``Finance and
+  {Development}: {A} {Tale} of {Two} {Sectors},'' \textit{American Economic
+  Review}, 101 (5),  1964--2002,
+  \href{http://dx.doi.org/10.1257/aer.101.5.1964}{\urlstyle{rm}
+  \nolinkurl{10.1257/aer.101.5.1964}}.
 
 \harvarditem[Cubas and Silos]{Cubas and Silos}{2017}{cubas2017}
-Cubas, German, and Pedro Silos. 2017. ``Career {Choice} and the {Risk}
-  {Premium} in the {Labor} {Market}.'' \textit{Review of Economic Dynamics} 26:
-   1--18.
+Cubas, German and Pedro Silos (2017) ``Career {Choice} and the {Risk} {Premium}
+  in the {Labor} {Market},'' \textit{Review of Economic Dynamics}, 26,  1--18,
+  \href{http://dx.doi.org/10.1016/j.red.2017.02.009}{\urlstyle{rm}
+  \nolinkurl{10.1016/j.red.2017.02.009}}.
 
 \harvarditem[Cubas and Silos]{Cubas and Silos}{2020}{cubas2020}
-Cubas, German, and Pedro Silos. 2020. ``Social {Insurance} and {Occupational}
-  {Mobility}.'' \textit{International Economic Review} 61 (1):  219--240.
+\bysame  (2020) ``Social {Insurance} and {Occupational} {Mobility},''
+  \textit{International Economic Review}, 61 (1),  219--240,
+  \href{http://dx.doi.org/10.1111/iere.12422}{\urlstyle{rm}
+  \nolinkurl{10.1111/iere.12422}}.
 
-\harvarditem[Cubas, Silos, and Soini]{Cubas, Silos, and Soini}{2023}{cubas2023}
-Cubas, German, Pedro Silos, and Vesa Soini. 2023. ``Risk and the
-  {Misallocation} of {Human} {Capital}.'' \textit{Working Paper}.
+\harvarditem[Cubas et~al.]{Cubas, Silos and Soini}{2023}{cubas2023}
+Cubas, German, Pedro Silos, and Vesa Soini (2023) ``Risk and the
+  {Misallocation} of {Human} {Capital},'' \textit{Working Paper},  1--50.
 
 \harvarditem[Dillon]{Dillon}{2018}{dillon2018}
-Dillon, Eleanor~W. 2018. ``Risk and {Return} {Trade}-{Offs} in {Lifetime}
-  {Earnings}.'' \textit{Journal of Labor Economics} 36 (4):  981--1021.
+Dillon, Eleanor~W. (2018) ``Risk and {Return} {Trade}-{Offs} in {Lifetime}
+  {Earnings},'' \textit{Journal of Labor Economics}, 36 (4),  981--1021,
+  \href{http://dx.doi.org/10.1086/697475}{\urlstyle{rm}
+  \nolinkurl{10.1086/697475}}.
 
 \harvarditem[Dvorkin and Monge-Naranjo]{Dvorkin and
   Monge-Naranjo}{2019}{dvorkin2019}
-Dvorkin, Maximiliano, and Alexander Monge-Naranjo. 2019. ``On the {Dynamics} of
-  {Occupational} {Choice}, {Human} {Capital} and {Inequality}.''
-  \textit{Working Paper}:  1--31.
+Dvorkin, Maximiliano~A. and Alexander Monge-Naranjo (2019) ``Occupation
+  {Mobility}, {Human} {Capital} and the {Aggregate} {Consequences} of
+  {Task}-{Biased} {Innovations},'' \textit{Federal Reserve Bank of St. Louis
+  Working Paper}, \href{http://dx.doi.org/10.20955/wp.2019.013}{\urlstyle{rm}
+  \nolinkurl{10.20955/wp.2019.013}}.
 
 \harvarditem[Hawkins and Mustre-del Rio]{Hawkins and Mustre-del
-  Rio}{2012}{hawkins2012}
-Hawkins, William~B., and Jose Mustre-del Rio. 2012. ``Financial {Frictions} and
-  {Occupational} {Mobility}.'' \textit{Working Paper}.
-
-\harvarditem[He and Liu]{He and Liu}{2008}{he2008}
-He, Hui, and Zheng Liu. 2008. ``Investment-{Specific} {Technological} {Change},
-  {Skill} {Accumulation}, and {Wage} {Inequality}.'' \textit{Review of Economic
-  Dynamics} 11 (2):  314--334.
+  Rio}{2016}{hawkins2016}
+Hawkins, William~B. and Jose Mustre-del Rio (2016) ``Financial {Frictions} and
+  {Occupational} {Mobility},'' \textit{Federal Reserve Bank of Kansas City
+  Working Paper},  1--29,
+  \href{http://dx.doi.org/10.2139/ssrn.2201909}{\urlstyle{rm}
+  \nolinkurl{10.2139/ssrn.2201909}}.
 
 \harvarditem[Heckman and Lochner]{Heckman and Lochner}{1998}{heckman1998}
-Heckman, James~J., and Lance Lochner. 1998. ``Explaining {Rising} {Wage}
+Heckman, James~J. and Lance Lochner (1998) ``Explaining {Rising} {Wage}
   {Inequality}: {Explorations} with a {Dynamic} {General} {Equilibrium} {Model}
-  of {Labor} {Earnings} with {Heterogeneous} {Agents}.'' \textit{Review of
-  Economic Dynamics} 1 (1):  1--58.
+  of {Labor} {Earnings} with {Heterogeneous} {Agents},'' \textit{Review of
+  Economic Dynamics}, 1 (1),  1--58,
+  \href{http://dx.doi.org/10.1006/redy.1997.0008}{\urlstyle{rm}
+  \nolinkurl{10.1006/redy.1997.0008}}.
 
-\harvarditem[Huggett, Ventura, and Yaron]{Huggett, Ventura, and
-  Yaron}{2011}{huggett2011}
-Huggett, Mark, Gustavo Ventura, and Amir Yaron. 2011. ``Sources of {Lifetime}
-  {Inequality}.'' \textit{American Economic Review} 101 (7):  2923--2954.
+\harvarditem[Huggett et~al.]{Huggett, Ventura and Yaron}{2006}{huggett2006}
+Huggett, Mark, Gustavo Ventura, and Amir Yaron (2006) ``Human {Capital} and
+  {Earnings} {Distribution} {Dynamics},'' \textit{Journal of Monetary
+  Economics}, 53 (2),  265--290,
+  \href{http://dx.doi.org/10.1016/j.jmoneco.2005.10.013}{\urlstyle{rm}
+  \nolinkurl{10.1016/j.jmoneco.2005.10.013}}.
+
+\harvarditem[Huggett et~al.]{Huggett, Ventura and Yaron}{2011}{huggett2011}
+\bysame  (2011) ``Sources of {Lifetime} {Inequality},'' \textit{American
+  Economic Review}, 101 (7),  2923--2954,
+  \href{http://dx.doi.org/10.1257/aer.101.7.2923}{\urlstyle{rm}
+  \nolinkurl{10.1257/aer.101.7.2923}}.
 
 \harvarditem[Kambourov and Manovskii]{Kambourov and
-  Manovskii}{2008}{kambourov2008}
-Kambourov, Gueorgui, and Iourii Manovskii. 2008. ``Rising {Occupational} and
-  {Industry} {Mobility} in the {United} {States}: 1968-97.''
-  \textit{International Economic Review} 49 (1):  41--79.
+  Manovskii}{2009}{kambourov2009}
+Kambourov, Gueorgui and Iourii Manovskii (2009) ``Occupational {Mobility} and
+  {Wage} {Inequality},'' \textit{Review of Economic Studies}, 76 (2),
+  731--759,
+  \href{http://dx.doi.org/10.1111/j.1467-937X.2009.00535.x}{\urlstyle{rm}
+  \nolinkurl{10.1111/j.1467-937X.2009.00535.x}}.
 
 \harvarditem[Krebs]{Krebs}{2003}{krebs2003}
-Krebs, T. 2003. ``Human {Capital} {Risk} and {Economic} {Growth}.'' \textit{The
-  Quarterly Journal of Economics} 118 (2):  709--744.
+Krebs, T. (2003) ``Human {Capital} {Risk} and {Economic} {Growth},''
+  \textit{The Quarterly Journal of Economics}, 118 (2),  709--744,
+  \href{http://dx.doi.org/10.1162/003355303321675491}{\urlstyle{rm}
+  \nolinkurl{10.1162/003355303321675491}}.
 
-\harvarditem[Krusell et~al.]{Krusell, Ohanian, Rios-Rull, and
+\harvarditem[Krusell et~al.]{Krusell, Ohanian, Rios-Rull and
   Violante}{2000}{krusell2000}
-Krusell, Per, Lee~E. Ohanian, Jose-Victor Rios-Rull, and Giovanni~L. Violante.
-  2000. ``Capital-{Skill} {Complementarity} and {Inequality}: {A}
-  {Macroeconomic} {Analysis}.'' \textit{Econometrica} 68 (5):  1029--1053.
+Krusell, Per, Lee~E. Ohanian, Jose-Victor Rios-Rull, and Giovanni~L. Violante
+  (2000) ``Capital-{Skill} {Complementarity} and {Inequality}: {A}
+  {Macroeconomic} {Analysis},'' \textit{Econometrica}, 68 (5),  1029--1053,
+  \href{http://dx.doi.org/10.1111/1468-0262.00150}{\urlstyle{rm}
+  \nolinkurl{10.1111/1468-0262.00150}}.
 
-\harvarditem[Mestieri, Schauer, and Townsend]{Mestieri, Schauer, and
-  Townsend}{2017}{mestieri2017}
-Mestieri, Martí, Johanna Schauer, and Robert~M. Townsend. 2017. ``Human
-  {Capital} {Acquisition} and {Occupational} {Choice}: {Implications} for
-  {Economic} {Development}.'' \textit{Review of Economic Dynamics} 25:
-  151--186.
+\harvarditem[Lee and Wolpin]{Lee and Wolpin}{2006}{lee2006}
+Lee, Donghoon and Kenneth~I. Wolpin (2006) ``Intersectoral {Labor} {Mobility}
+  and the {Growth} of the {Service} {Sector},'' \textit{Econometrica}, 74 (1),
+  1--46,
+  \href{http://dx.doi.org/10.1111/j.1468-0262.2006.00648.x}{\urlstyle{rm}
+  \nolinkurl{10.1111/j.1468-0262.2006.00648.x}}.
+
+\harvarditem[Liu]{Liu}{2019}{liu2019}
+Liu, Kai (2019) ``Wage {Risk} and the {Value} of {Job} {Mobility} in {Early}
+  {Employment} {Careers},'' \textit{Journal of Labor Economics}, 37 (1),
+  139--185, \href{http://dx.doi.org/10.1086/698898}{\urlstyle{rm}
+  \nolinkurl{10.1086/698898}}.
+
+\harvarditem[Low et~al.]{Low, Meghir and Pistaferri}{2010}{low2010}
+Low, Hamish, Costas Meghir, and Luigi Pistaferri (2010) ``Wage {Risk} and
+  {Employment} {Risk} over the {Life} {Cycle},'' \textit{American Economic
+  Review}, 100 (4),  1432--1467,
+  \href{http://dx.doi.org/10.1257/aer.100.4.1432}{\urlstyle{rm}
+  \nolinkurl{10.1257/aer.100.4.1432}}.
 
 \harvarditem[Midrigan and Xu]{Midrigan and Xu}{2014}{midrigan2014}
-Midrigan, Virgiliu, and Daniel~Yi Xu. 2014. ``Finance and {Misallocation}:
-  {Evidence} from {Plant}-{Level} {Data}.'' \textit{American Economic Review}
-  104 (2):  422--458.
+Midrigan, Virgiliu and Daniel~Yi Xu (2014) ``Finance and {Misallocation}:
+  {Evidence} from {Plant}-{Level} {Data},'' \textit{American Economic Review},
+  104 (2),  422--458,
+  \href{http://dx.doi.org/10.1257/aer.104.2.422}{\urlstyle{rm}
+  \nolinkurl{10.1257/aer.104.2.422}}.
 
 \harvarditem[Neumuller]{Neumuller}{2015}{neumuller2015}
-Neumuller, Seth. 2015. ``Inter-{Industry} {Wage} {Differentials} {Revisited}:
-  {Wage} {Volatility} and the {Option} {Value} of {Mobility}.'' \textit{Journal
-  of Monetary Economics} 76:  38--54.
+Neumuller, Seth (2015) ``Inter-{Industry} {Wage} {Differentials} {Revisited}:
+  {Wage} {Volatility} and the {Option} {Value} of {Mobility},'' \textit{Journal
+  of Monetary Economics}, 76,  38--54,
+  \href{http://dx.doi.org/10.1016/j.jmoneco.2015.08.001}{\urlstyle{rm}
+  \nolinkurl{10.1016/j.jmoneco.2015.08.001}}.
 
 \harvarditem[Park]{Park}{2018}{park2018}
-Park, Yena. 2018. ``Constrained {Efficiency} in a {Human} {Capital} {Model}.''
-  \textit{American Economic Journal: Macroeconomics} 10 (3):  179--214.
-
-\harvarditem[Restuccia and Vandenbroucke]{Restuccia and
-  Vandenbroucke}{2013}{restuccia2013a}
-Restuccia, Diego, and Guillaume Vandenbroucke. 2013. ``The {Evolution} of
-  {Education}: {A} {Macroeconomic} {Analysis}.'' \textit{International Economic
-  Review} 54 (3):  915--936.
-
-\harvarditem[Silos and Smith]{Silos and Smith}{2015}{silos2015}
-Silos, Pedro, and Eric Smith. 2015. ``Human {Capital} {Portfolios}.''
-  \textit{Review of Economic Dynamics} 18 (3):  635--652.
+Park, Yena (2018) ``Constrained {Efficiency} in a {Human} {Capital} {Model},''
+  \textit{American Economic Journal: Macroeconomics}, 10 (3),  179--214,
+  \href{http://dx.doi.org/10.1257/mac.20160405}{\urlstyle{rm}
+  \nolinkurl{10.1257/mac.20160405}}.
 
 \harvarditem[Singh]{Singh}{2010}{singh2010}
-Singh, Aarti. 2010. ``Human {Capital} {Risk} in {Life}-{Cycle} {Economies}.''
-  \textit{Journal of Monetary Economics} 57 (6):  729--738.
+Singh, Aarti (2010) ``Human {Capital} {Risk} in {Life}-{Cycle} {Economies},''
+  \textit{Journal of Monetary Economics}, 57 (6),  729--738,
+  \href{http://dx.doi.org/10.1016/j.jmoneco.2010.05.012}{\urlstyle{rm}
+  \nolinkurl{10.1016/j.jmoneco.2010.05.012}}.
+
+\harvarditem[Song et~al.]{Song, Storesletten and Zilibotti}{2011}{song2011}
+Song, Zheng, Kjetil Storesletten, and Fabrizio Zilibotti (2011) ``Growing
+  {Like} {China},'' \textit{American Economic Review}, 101 (1),  196--233,
+  \href{http://dx.doi.org/10.1257/aer.101.1.196}{\urlstyle{rm}
+  \nolinkurl{10.1257/aer.101.1.196}}.
 
 \harvarditem[Stantcheva]{Stantcheva}{2017}{stantcheva2017}
-Stantcheva, Stefanie. 2017. ``Optimal {Taxation} and {Human} {Capital}
-  {Policies} over the {Life} {Cycle}.'' \textit{Journal of Political Economy}
-  125 (6):  1931--1990.
-
-\harvarditem[Sullivan]{Sullivan}{2010}{sullivan2010}
-Sullivan, Paul. 2010. ``A {Dynamic} {Analysis} on {Educational} {Attainment},
-  {Occupational} {Choices}, and {Job} {Search}.'' \textit{International
-  Economic Review} 51 (1):  289--317.
-
-\harvarditem[Todd and Zhang]{Todd and Zhang}{2020}{todd2020}
-Todd, Petra~E., and Weilong Zhang. 2020. ``A {Dynamic} {Model} of
-  {Personality}, {Schooling}, and {Occupational} {Choice}.''
-  \textit{Quantitative Economics} 11 (1):  231--275.
+Stantcheva, Stefanie (2017) ``Optimal {Taxation} and {Human} {Capital}
+  {Policies} over the {Life} {Cycle},'' \textit{Journal of Political Economy},
+  125 (6),  1931--1990,
+  \href{http://dx.doi.org/doi.org/10.1086/694291}{\urlstyle{rm}
+  \nolinkurl{doi.org/10.1086/694291}}.
 
 \end{thebibliography}
