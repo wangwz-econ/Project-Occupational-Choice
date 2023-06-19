@@ -54,28 +54,27 @@ This paper investigates how uninsurable labor earnings risk affects individuals'
 
 {\noindent \bf Problems Remain to Be Solved}
 
-What is the proper way to aggregate the household side state variables to obtain the variables in the production side?
-
-How to use the idiosyncratic production risk and credit market imperfections to pin down sector specific labor earnings risk? Since it is a macro model, it seems necessary to introduce some equilibrium (and/or invariant distribution) concepts. To do that, some explicit aggregation rules in the household side are unavoidable.
-
-To model the production side, since there is heterogeneity in firms, do I need to distinguish producers from workers who make sector choices? Or should I just let the workers employed in the private sector essentially be self-employed and run business and directly be affected by production risks.
+\begin{itemize}[leftmargin=15pt, itemsep=0pt, topsep=0pt]
+	\item Whether to explicitly model people's schooling choices since it only affects the rate of human capital accumulation but can greatly complicate the model.
+	\item What is the proper way to aggregate the household side state variables to obtain the variables in the production side?
+	\item How to use the idiosyncratic production risk and credit market imperfections to pin down sector specific labor earnings risk? Since it is a macro model, it seems necessary to introduce some equilibrium (and/or invariant distribution) concepts. To do that, some explicit aggregation rules in the household side are unavoidable.
+	\item To model the production side, since there is heterogeneity in firms, do I need to distinguish producers from workers who make sector choices? Or should I just let the workers employed in the private sector essentially be self-employed and run business and directly be affected by production risks.
+\end{itemize}
 
 {\noindent \bf Related Literature}
 
-Papers that investigate how uninsurable risks affect people's job (or occupation or industry) mobility: \citet{cubas2020, kambourov2009, dillon2018, neumuller2015, hawkins2016, cubas2023, cubas2017, low2010, liu2019, altonji2013, dvorkin2019, lee2006}.
+\begin{itemize}[leftmargin=15pt, itemsep=0pt, topsep=0pt]
+	\item Papers that investigate how uninsurable risks affect people's job (or occupation or industry) mobility: \citet{cubas2020, kambourov2009, dillon2018, neumuller2015, hawkins2016, cubas2023, cubas2017, low2010, liu2019, altonji2013, dvorkin2019, lee2006}.
+	\item Papers that study individuals' human accumulation choices in incomplete markets: \citet{singh2010, krebs2003, park2018, huggett2011, stantcheva2017, huggett2006}.
+	\item Papers that study the effects of financial imperfections and production side literature: \citet{buera2011, angeletos2006, krusell2000, midrigan2014, song2011}.
+\end{itemize}
 
-Papers that study individuals' human accumulation choices in incomplete markets: \citet{singh2010, krebs2003, park2018, huggett2011, stantcheva2017, huggett2006}.
+{\noindent \bf Papers that are most relevant in terms of modelling ingredients}
 
-Papers that study the effects of financial imperfections and production side literature: \citet{buera2011, angeletos2006, krusell2000, midrigan2014, song2011}.
-
-Papers that are most relevant in terms of modelling ingredients:
-\begin{itemize} 
-	\setlength\itemsep{0em}
-	\setlength{\parskip}{8pt} 
-	\setlength{\topsep}{0em} 
-	\item Take the general equilibrium framework in \citet{heckman1998} but add sector choices and uninsurable risks.
-	\item Use the on-the-job human capital accumulation process (and most notations) in \citet{huggett2011} but explicitly model schooling choice, according to which people are categorized into different skill groups.
-	\item Use the idea of the human capital transferability matrix in \citet{dvorkin2019}, the idea of how production side risk translates into people's wage risk in \citet{kambourov2009} \footnote{\highlightR{NOT SO SURE!}}, and the idea of financial imperfections in \citet{song2011}\footnote{\highlightR{NOT SO SURE!}}.
+\begin{itemize} [leftmargin=15pt, itemsep=0pt, topsep=0pt]
+	\item Take the same general equilibrium framework as in \citet{heckman1998} but add sector choices and uninsurable risks.
+	\item Use the same on-the-job human capital accumulation process (and some notations) as in \citet{huggett2011} but explicitly model schooling choice, according to which people are categorized into different skill groups.
+	\item Use the similar idea of the human capital transferability matrix and switching costs in \citet{dvorkin2019}.%, the idea of how production side risk translates into people's wage risk in \citet{kambourov2009} \footnote{\highlightR{NOT SO SURE!}}, and the idea of financial imperfections in \citet{song2011}\footnote{\highlightR{NOT SO SURE!}}.
 \end{itemize}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -89,7 +88,7 @@ Individuals take all the factor prices as given. In the first period (when the a
 
 \subsection{Working Periods: Decisions on Sector and Human Capital Accumulation}
 
-At date $t$, individuals of cohort $c$ become age $\undl{a}=18$. At this age, individuals differ from each other only in an endowment vector $\bds{x}_t = \left(h_{\undl{a}t}, k_{\undl{a}t}, \theta\right)$, where $h_{\undl{a}t}$, $k_{\undl{a}t}$ denote his initial human capital stock and wealth level, respectively, and $\theta$ is his learning ability drawn from a distribution $G(\theta)$. He needs to make a choice on whether to go to college based on different discounted lifetime utility. Attending college makes an individual a high-skilled worker (labeled as $H$) while engaging in the labor market directly means that he is a low-skilled worker (labeled as $L$). 
+At date $t$, individuals of cohort $c$ become age $\undl{a}=18$. At this age, individuals differ from each other only in an endowment vector $\bds{x}_t = \left(h_{\undl{a}t}, k_{\undl{a}t}, \theta\right)$, where $h_{\undl{a}t}$, $k_{\undl{a}t}$ denote his initial human capital stock and wealth level, respectively, and $\theta$ is his learning ability drawn from a distribution $G(\theta)$. Together, the initial conditions are draw from the joint distribution $\xi$. He needs to make a choice on whether to go to college based on different discounted lifetime utility. Attending college makes an individual a high-skilled worker (labeled as $H$) while engaging in the labor market directly means that he is a low-skilled worker (labeled as $L$). 
 
 For those workers in the labor market (from age $\undl{a}^L = 18$ for $L$-type workers and age $\undl{a}^H = 22$ for $H$-type workers to the retirement age $a^{r} = 60$), in each period, he needs to choose between two different occupations or sectors, $j \in \{S, P\}$--whether to work in state-owned enterprises (labeled as $S$) or privately owned companies (labeled as $P$). \highlightR{From individuals' point of view, sectors differ from each other in the aspect of mean earnings and the idiosyncratic earning risks} (which are originated from sector's idiosyncratic production risks and potentially amplified by financial imperfection in the credit market) and mean earnings (which are pinned down by the general equilibrium). 
 
@@ -114,7 +113,7 @@ subject to,
 	h_{a+1} = \footnote{\highlightR{I am still unsure how to model the human capital accumulation process. I can actually take a more general specification as in \citet{heckman1998} (for the non-switchers): $$h_{a+1, t+1}=A^\tau(\theta)\left(1-l_{a, t}\right)^{\alpha_\tau}\left(h_{at}\right)^{\beta_\tau}+\left(1-\sigma^\tau\right) h_{a, t}^S,$$ which incorporates human capital depreciation and can better differentiate the effects of schooling $\tau$ and ability $\t$. Maybe, in solving and estimating the model, I should try this more sophisticated specification as well.}}
 	\begin{cases}
 		h_{at} + \t \bs{h_{at} \bp{1-l_{at}}}^{\a_\tau} & \text{ if } j_{a+1, t+1} = j_{at}, \\
-		\d_{j_{at}j_{a+1, t+1}} h_{at} + \t \bs{\d_{j_{at}j_{a+1, t+1}} h_{at} \bp{1-l_{at}}}^{\a_\tau} & \text{ if } j_{a+1, t+1} \neq j_{at}.
+		\phi_{j_{at}j_{a+1, t+1}} h_{at} + \t \bs{\phi_{j_{at}j_{a+1, t+1}} h_{at} \bp{1-l_{at}}}^{\a_\tau} & \text{ if } j_{a+1, t+1} \neq j_{at}.
 	\end{cases}	 
 \end{equation}
 
@@ -123,12 +122,12 @@ Notations:
 	\setlength\itemsep{0em}
 	\setlength{\parskip}{8pt} 
 	\setlength{\topsep}{0em} 
-	\item $r_{t+a-1}$: the real return of capital;
+	\item $r_{t+a-1}$: the return to savings; (\highlightR{Right now, I am thinking about a constant deposit rate.})
 	\item $T_{a, t+a-1}$: taxes (\highlightR{not so sure how to deal with it});
 	\item $l_{at}$: the choice vaiable indicating how much time is allocated to work, while all the other time is allocated to accumulate on-th-job human capital (total time is normalized to 1);
 	\item $e_{at}$: labor earnings;
-	\item $w_{t+a-1}^j$: sector-specific wage rate (\highlightR{The only source of stochasticity in our model. Come from the production side! Still not so sure how to model it. But for now, we can separately model the partial equilibrium model, with $w_{t}^j = \rho w_{t-1}^j + \ve_{t}^j$, where $\ve_{t}^j$ is a normal distributed random variables. Its variance implies the sector-specific labor earning risks.})
-	\item $\d_{j_{at}j_{a+1, t+1}}$: human capital transferability parameter (two parameters, $\d_{SP}, \d_{PS}$) indicating the remaining human capital if the individual switches from sector $j_{at}$ to sector $j_{a+1, t+1}$;
+	\item $w_{t+a-1}^j$: sector-specific wage rate (\highlightR{The only source of stochasticity in our model. Come from the production side! Still not so sure how to model it. But for now, we can separately model the partial equilibrium model, with $\ln\of{w_{t}^j} = \rho \ln\of{w_{t-1}^j} + \ve_{t}^j$, where $\ve_{t}^j$ is a normal distributed random variables. Its variance implies the sector-specific labor earning risks.})
+	\item $\phi_{j_{at}j_{a+1, t+1}}$: human capital transferability parameter (two parameters, $\phi_{SP}, \phi_{PS}$) indicating the remaining human capital if the individual switches from sector $j_{at}$ to sector $j_{a+1, t+1}$;
 	\item $\t$: ability, drawn from $G\of{\t}$ (can be estimated in the last step using SMM to match some key moments, as in \citet{huggett2011}); 
 	\item $\a_\tau$: schooling-specific human capital accumulation parameter.
 \end{itemize}
@@ -151,7 +150,22 @@ Assum that in period $t$, an individual turns $\undl{a}=18$ years old. Then he n
 \end{equation}
 where $D^H$ is the discounted direct cost of schooling (It can also be incorporated in to the value function, i.e., $V\of{H, j_{\undl{a}+4, t+4}, h_{{\undl{a}t}}, k_{\undl{a}t}-D^H, \t}$). 
 
+\highlightR{Questions:} What is the aim to introduce people's schooling choice? In the current model, people's schooling choice only affects the rate of human capital accumultion, $\a_\tau$. But in \citet{heckman1998}, the human capital is skill-specific, that is, $h^L$ and $h^H$ are two kinds of human capital, and their production is skill-biased, so this setup has more implications on inequality issues. But right now, human capital in my model is quite general, so it seems unnecessary to introduce schooling choice, which may significantly complicate the whole model. 
+
+\highlightR{Maybe I should check the data and see if there is a significant difference in sector mobility patterns and wage process across different skill groups defined by education level! And then decide whether to explicitly model people's schooling choice.}
+
+\section{Production Side of the Model}
+
+\subsection{Stop Here for Now}
+
+In the initial proposal, I will just stop here. Even though I want to build a general equilibrium model and let the FOC of the production pin down the capital rental rate and wage rate of per unit of efficient human capital. However, I find it necessary to read more papers on the production side problems and especially how to model the financial imperfections. 
+
+\highlightR{\bf In the next two or three weeks, I think I will try to play with the data and identify people's wage process, sector mobility patterns, and in the meantime, read more production side papers.}
+
 \subsection{Aggregation}
+
+The first step trying to embed this decision problem within a general equilibrium framework is to aggregate individual-level variables to aggregate variables. To do this, I will introduce the following noations: Let $c$ index cohort. Let $t_c$ denote the time when the cohort becomes $\undl{a} = 18$ years old so that they start to be studied in this paper. Let $P_{a_c}$ consists of all histories of factor prices faced by cohort $c$, that is, $P_{a_c} = \bp{w_{t_c}, w_{t_c + 1}, \ldots, w_{t_c + a - \undl{a}}, r_{t_c}, r_{t_c + 1}, \ldots, r_{t_c + a - \undl{a}}}$, where the wage rate include both the state sector and the private sector. 
+
 
 
 

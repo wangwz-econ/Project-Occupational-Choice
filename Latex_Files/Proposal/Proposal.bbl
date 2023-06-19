@@ -10,6 +10,12 @@
 
 \begin{thebibliography}{xxx}
 
+\harvarditem[Aiyagari]{Aiyagari}{1994}{aiyagari1994}
+Aiyagari, S.~Rao (1994) ``Uninsured {Idiosyncratic} {Risk} and {Aggregate}
+  {Saving},'' \textit{The Quarterly Journal of Economics}, 109 (33),  659--684,
+  \href{http://dx.doi.org/10.2307/2118417}{\urlstyle{rm}
+  \nolinkurl{10.2307/2118417}}.
+
 \harvarditem[Altonji et~al.]{Altonji, Smith and Vidangos}{2013}{altonji2013}
 Altonji, Joseph~G., Anthony~A. Smith, and Ivan Vidangos (2013) ``Modeling
   {Earnings} {Dynamics},'' \textit{Econometrica}, 81 (4),  1395--1454,
@@ -57,7 +63,8 @@ Dillon, Eleanor~W. (2018) ``Risk and {Return} {Trade}-{Offs} in {Lifetime}
 Dvorkin, Maximiliano~A. and Alexander Monge-Naranjo (2019) ``Occupation
   {Mobility}, {Human} {Capital} and the {Aggregate} {Consequences} of
   {Task}-{Biased} {Innovations},'' \textit{Federal Reserve Bank of St. Louis
-  Working Paper}, \href{http://dx.doi.org/10.20955/wp.2019.013}{\urlstyle{rm}
+  Working Paper},  1--91,
+  \href{http://dx.doi.org/10.20955/wp.2019.013}{\urlstyle{rm}
   \nolinkurl{10.20955/wp.2019.013}}.
 
 \harvarditem[Hawkins and Mustre-del Rio]{Hawkins and Mustre-del

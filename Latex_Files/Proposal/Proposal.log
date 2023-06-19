@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.31)  17 JUN 2023 12:04
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.31)  19 JUN 2023 19:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -700,66 +700,53 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 9.19998pt on input line 48.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 7.35999pt on input line 48.
- [1
-
-]
-LaTeX Font Info:    Trying to load font information for TS1+futs on input line 76.
+LaTeX Font Info:    Trying to load font information for TS1+futs on input line 58.
  (d:/APP/texlive/2020/texmf-dist/tex/latex/fourier/ts1futs.fd
 File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
 )
-Overfull \hbox (7.25754pt too wide) in paragraph at lines 76--77
-[]\T1/futs/m/n/12 Take the gen-eral equi-lib-rium frame-work in [][]Heck-man and Lochner[][] ([][]1998[][]) but add sec-tor choices
+Overfull \hbox (0.26147pt too wide) in paragraph at lines 68--69
+[]\T1/futs/m/n/12 Papers that study in-di-vid-u-als' hu-man ac-cu-mu-la-tion choices in in-com-plete mar-kets: [][]Singh[][] ([][]2010[][]);
+ []
+
+[1
+
+]
+Overfull \hbox (3.30959pt too wide) in paragraph at lines 76--77
+[]\T1/futs/m/n/12 Use the same on-the-job hu-man cap-i-tal ac-cu-mu-la-tion pro-cess (and some no-ta-tions) as in [][]Huggett
  []
 
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 78.
+(Font)              scaled to size 11.03998pt on input line 91.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 78.
+(Font)              scaled to size 8.27998pt on input line 91.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 78.
+(Font)              scaled to size 6.43999pt on input line 91.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 78.
+(Font)              scaled to size 11.03998pt on input line 91.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 78.
+(Font)              scaled to size 8.27998pt on input line 91.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 78.
+(Font)              scaled to size 6.43999pt on input line 91.
+[2]
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 78.
+(Font)              scaled to size 6.99199pt on input line 113.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 78.
+(Font)              scaled to size 5.51999pt on input line 113.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 78.
+(Font)              scaled to size 6.99199pt on input line 113.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 78.
-
-Overfull \hbox (1.2575pt too wide) in paragraph at lines 78--79
-[]\T1/futs/m/n/12 Use the idea of the hu-man cap-i-tal trans-fer-abil-ity ma-trix in [][]Dvorkin and Monge-Naranjo[][] ([][]2019[][]),
- []
-
-
-Package natbib Warning: Citation `aiyagari1994' on page 2 undefined on input line 88.
-
-[2] [3] [4] (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.bbl [5])
-
-Package natbib Warning: There were undefined citations.
-
-[6] (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.aux)
-
-Package rerunfilecheck Warning: File `Proposal.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Proposal.out':
-(rerunfilecheck)             Before: B086735832E59DF0D779C8C4622122D3;829
-(rerunfilecheck)             After:  FE416E684C7018DD96162853A4BC08FB;964.
+(Font)              scaled to size 5.51999pt on input line 113.
+ [3] [4] [5] (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.bbl [6]) [7] (e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.aux)
+Package rerunfilecheck Info: File `Proposal.out' has not changed.
+(rerunfilecheck)             Checksum: D7D28D01FDC0396695C7B5B1D228D1A0;1346.
  ) 
 Here is how much of TeX's memory you used:
- 13380 strings out of 476930
- 193395 string characters out of 5824092
- 552699 words of memory out of 5000000
- 33117 multiletter control sequences out of 15000+600000
+ 13387 strings out of 476930
+ 193558 string characters out of 5824092
+ 553301 words of memory out of 5000000
+ 33124 multiletter control sequences out of 15000+600000
  508457 words of font info for 110 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 83i,9n,89p,1033b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,9n,89p,1033b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.pdf (6 pages).
+Output written on e:/__Projects/Project-Occupational-Choice/Latex_Files/Proposal/Proposal.pdf (7 pages).
